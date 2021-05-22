@@ -1,0 +1,14 @@
+# Blender MTL File: 'None'
+# Material Count: 1
+
+newmtl Himalayan_Tahr
+Ns 50.000007
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Bump C:\\Users\\GONZALEZ\\Desktop\\Himalayan_Tahr_v1_L3.123cf695754f-969b-4269-bd12-57e6111089c9\\13579_Himalayan_Tahr_bump.jpg
+map_Kd C:\\Users\\GONZALEZ\\Desktop\\Himalayan_Tahr_v1_L3.123cf695754f-969b-4269-bd12-57e6111089c9\\13579_Himalayan_Tahr_diff.jpg

@@ -1,0 +1,13 @@
+# Blender MTL File: 'None'
+# Material Count: 1
+
+newmtl _10025_Hawk_v1_iterations_201___Default
+Ns 50.000007
+Ka 1.000000 1.000000 1.000000
+Kd 0.588200 0.588200 0.588200
+Ks 0.090000 0.090000 0.090000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\GONZALEZ\\Desktop\\Hawk_V1_L3.123c06ec1957-e2af-469d-862a-9061fe0c6e2b\\10025_Hawk_v1_Diffuse.jpg

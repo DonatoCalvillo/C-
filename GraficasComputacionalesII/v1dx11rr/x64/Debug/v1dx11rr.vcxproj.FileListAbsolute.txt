@@ -1,0 +1,4 @@
+D:\DONUTS\GRAFICAS2PF\x64\Debug\Billboard.cso
+D:\DONUTS\GRAFICAS2PF\x64\Debug\Modelo.cso
+D:\DONUTS\GRAFICAS2PF\x64\Debug\Shader.cso
+D:\DONUTS\GRAFICAS2PF\x64\Debug\SkyDome.cso

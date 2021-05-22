@@ -1,0 +1,13 @@
+# Blender MTL File: 'None'
+# Material Count: 1
+
+newmtl 12957_Manatee
+Ns 10.000002
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\GONZALEZ\\Desktop\\Manatee_v1_L3.123cda95a4a8-3406-41ec-b070-d3cc40dec90c\\12957_Manatee_diff.jpg

@@ -1,0 +1,13 @@
+# Blender MTL File: 'None'
+# Material Count: 1
+
+newmtl 12959_Moose_Female
+Ns 10.000002
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\GONZALEZ\\Desktop\\Moose_Female_v1_L3.123c6ea67095-c833-41b9-b86e-fad5f78c9b4b\\12959_Moose_Female_diff.jpg
